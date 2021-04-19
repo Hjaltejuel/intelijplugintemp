@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.hjaltejuel.intelijplugintemp.services
 
+import com.github.hjaltejuel.intelijplugintemp.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
